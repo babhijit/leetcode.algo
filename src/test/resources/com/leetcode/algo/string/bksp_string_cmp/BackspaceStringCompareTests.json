@@ -1,0 +1,44 @@
+[
+  {
+    "input": {
+      "s": "ab##",
+      "t": "c#d#"
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "s": "bxj##tw",
+      "t": "bxj###tw"
+    },
+    "output": false
+  },
+  {
+    "input": {
+      "s": "bxj##tw",
+      "t": "bxo#j##tw"
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "s": "xywrrmp",
+      "t": "xywrrmu#p"
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "s": "ab#c",
+      "t": "ad#c"
+    },
+    "output": true
+  },
+  {
+    "input": {
+      "s": "a#c",
+      "t": "b"
+    },
+    "output": false
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "input": {
+      "commands": ["push", "push", "top", "pop", "empty"],
+      "values"  : [   1  ,    2  ,  null,  null,  null  ]
+    },
+    "output": {
+      "expected": [ "null", "null", "2" ,   "2", "false" ]
+    }
+  }
+]

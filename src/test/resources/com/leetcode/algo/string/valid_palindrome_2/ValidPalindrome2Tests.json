@@ -1,0 +1,18 @@
+[
+  {
+    "input": "ebcbbececabbacecbbcbe",
+    "output": true
+  },
+  {
+    "input": "aba",
+    "output": true
+  },
+  {
+    "input": "abca",
+    "output": true
+  },
+  {
+    "input": "abc",
+    "output": false
+  }
+]

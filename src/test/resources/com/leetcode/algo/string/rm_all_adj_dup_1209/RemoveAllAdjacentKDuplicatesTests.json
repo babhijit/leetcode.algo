@@ -1,0 +1,23 @@
+[
+  {
+    "input": {
+      "s": "abcd",
+      "k": 2
+    },
+    "output": "abcd"
+  },
+  {
+    "input": {
+      "s": "deeedbbcccbdaa",
+      "k": 3
+    },
+    "output": "aa"
+  },
+  {
+    "input": {
+      "s": "pbbcggttciiippooaais",
+      "k": 2
+    },
+    "output": "ps"
+  }
+]

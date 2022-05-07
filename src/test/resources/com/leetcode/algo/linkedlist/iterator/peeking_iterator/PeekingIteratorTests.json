@@ -1,0 +1,11 @@
+[
+  {
+    "input": {
+      "init": [1, 2, 3],
+      "ops": ["next", "peek", "next", "next", "hasNext"]
+    },
+    "output": {
+      "expected": ["1", "2", "2", "3", "false"]
+    }
+  }
+]
