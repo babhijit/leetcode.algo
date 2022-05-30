@@ -1,0 +1,26 @@
+[
+  {
+    "input": {
+      "characters": "abaabacaa",
+      "replacements": 2,
+      "target": "a"
+    },
+    "output": 7
+  },
+  {
+    "input": {
+      "characters": "oyorooms",
+      "replacements": 1,
+      "target": "o"
+    },
+    "output": 4
+  },
+  {
+    "input": {
+      "characters": "abacus",
+      "replacements": 2,
+      "target": "a"
+    },
+    "output": 4
+  }
+]
