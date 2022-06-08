@@ -1,0 +1,14 @@
+[
+  {
+    "s": "ababa",
+    "output": 1
+  },
+  {
+    "s": "abb",
+    "output": 2
+  },
+  {
+    "s": "baabb",
+    "output": 2
+  }
+]
