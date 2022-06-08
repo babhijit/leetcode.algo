@@ -2,9 +2,11 @@ package com.leetcode.algo.dp.split_largest_array_sum;
 
 import com.leetcode.algo.AbstractExecuteTests;
 import com.leetcode.algo.dp.SplitArrayLargestSum_TopDownDP;
+import org.junit.jupiter.api.Disabled;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@Disabled
 class SplitArrayLargestSumTopDownDPTest extends AbstractExecuteTests<TestCaseRecord> {
     private static final String FILE_NAME = "SplitArrayLargestSumTests.json";
 
