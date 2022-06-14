@@ -1,4 +1,4 @@
-package com.leetcode.algo.string.del_op_2_strings;
+package com.leetcode.algo.dp.del_op_2_strings_583;
 
 public class TestCase {
     public final TestCaseInput input;
