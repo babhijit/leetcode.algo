@@ -1,0 +1,30 @@
+[
+  {
+    "input": {
+      "word1": "sea",
+      "word2": "eat"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "word1": "sea",
+      "word2": "ate"
+    },
+    "output": 4
+  },
+  {
+    "input": {
+      "word1": "ababac",
+      "word2": "ababab"
+    },
+    "output": 2
+  },
+  {
+    "input": {
+      "word1": "leetcode",
+      "word2": "etco"
+    },
+    "output": 4
+  }
+]
