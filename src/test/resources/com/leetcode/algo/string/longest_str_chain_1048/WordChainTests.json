@@ -1,0 +1,18 @@
+[
+  {
+    "words": ["a","b","ab","bac"],
+    "output": 2
+  },
+  {
+    "words": ["a","b","ba","bca","bda","bdca"],
+    "output": 4
+  },
+  {
+    "words": ["xbc","pcxbcf","xb","cxbc","pcxbc"],
+    "output": 5
+  },
+  {
+    "words": ["abcd","dbqca"],
+    "output": 1
+  }
+]
