@@ -1,0 +1,18 @@
+[
+  {
+    "root" : [0,0,null,0,null,0,null,null,0],
+    "output": 2
+  },
+  {
+    "root" : [0,0,null,0,0],
+    "output": 1
+  },
+  {
+    "root" : [0, 0, 0],
+    "output": 1
+  },
+  {
+    "root" : [0],
+    "output": 1
+  }
+]
