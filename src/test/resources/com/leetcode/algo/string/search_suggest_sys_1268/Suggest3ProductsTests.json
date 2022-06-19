@@ -1,0 +1,44 @@
+[
+  {
+    "input": {
+      "products": ["havana"],
+      "searchWord": "tatiana"
+    },
+    "output": {
+      "expected":  [[],[],[],[],[],[],[]]
+    }
+  },
+  {
+    "input": {
+      "products": ["mobile","mouse","moneypot","monitor","mousepad"],
+      "searchWord": "mouse"
+    },
+    "output": {
+      "expected": [
+        ["mobile","moneypot","monitor"],
+        ["mobile","moneypot","monitor"],
+        ["mouse","mousepad"],
+        ["mouse","mousepad"],
+        ["mouse","mousepad"]
+      ]
+    }
+  },
+  {
+    "input": {
+      "products": ["havana"],
+      "searchWord": "havana"
+    },
+    "output": {
+      "expected": [["havana"],["havana"],["havana"],["havana"],["havana"],["havana"]]
+    }
+  },
+  {
+    "input": {
+      "products": ["bags","baggage","banner","box","cloths"],
+      "searchWord": "bags"
+    },
+    "output": {
+      "expected":  [["baggage","bags","banner"],["baggage","bags","banner"],["baggage","bags"],["bags"]]
+    }
+  }
+]
