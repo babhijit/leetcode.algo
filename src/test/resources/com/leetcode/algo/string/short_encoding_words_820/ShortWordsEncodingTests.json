@@ -1,0 +1,14 @@
+[
+  {
+    "words": ["feipyxx","e"],
+    "output": 10
+  },
+  {
+    "words": ["time", "me", "bell"],
+    "output": 10
+  },
+  {
+    "words": ["t"],
+    "output": 2
+  }
+]
