@@ -14,7 +14,7 @@ public class SearchTrie {
     }
 
     private static int getRadix(char c) {
-        return (int)(c - 'a');
+        return c - 'a';
     }
 
     private final Node root = new Node();
