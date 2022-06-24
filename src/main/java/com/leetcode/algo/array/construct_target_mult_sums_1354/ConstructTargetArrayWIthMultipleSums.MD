@@ -37,3 +37,6 @@ Examples
 
 **Input**: `target = [8,5]` <br />
 **Output**: `true` <br />
+
+
+Solution: https://www.youtube.com/watch?v=h9t7JF50Mpw
