@@ -1,0 +1,26 @@
+[
+  {
+    "target": [1,1000000000],
+    "output": true
+  },
+  {
+    "target": [1, 1, 1],
+    "output": true
+  },
+  {
+    "target": [9, 3, 5],
+    "output": true
+  },
+  {
+    "target": [1, 1, 1, 2],
+    "output": false
+  },
+  {
+    "target": [8, 5],
+    "output": true
+  },
+  {
+    "target": [9, 9, 9],
+    "output": false
+  }
+]
