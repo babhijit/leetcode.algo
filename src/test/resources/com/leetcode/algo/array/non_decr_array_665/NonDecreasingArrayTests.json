@@ -1,0 +1,22 @@
+[
+  {
+    "nums": [1,1,1],
+    "output": true
+  },
+  {
+    "nums": [-1,4,2,3],
+    "output": true
+  },
+  {
+    "nums": [3,4,2,3],
+    "output": false
+  },
+  {
+    "nums": [4, 2, 3],
+    "output": true
+  },
+  {
+    "nums": [4, 2, 1],
+    "output": false
+  }
+]
