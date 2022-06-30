@@ -1,4 +1,4 @@
-package com.leetcode.algo.array.non_decr_array_665;
+package com.leetcode.algo.greedy.non_decr_array_665;
 
 import java.util.Objects;
 
